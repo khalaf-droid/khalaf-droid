@@ -17,7 +17,7 @@
 ---
 
 ### 📫 Connect with me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/khalafhussein)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/khalafhussein](https://www.linkedin.com/in/khalaf-hussein-492b3a338/)  
 - 🧠 GitHub: [github.com/khalaf-droid](https://github.com/khalaf-droid)
 
 ---
