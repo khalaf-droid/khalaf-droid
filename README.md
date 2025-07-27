@@ -19,6 +19,8 @@
 ### 📫 Connect with me:
 - 💼 [LinkedIn]([https://www.linkedin.com/in/khalafhussein](https://www.linkedin.com/in/khalaf-hussein-492b3a338/)  
 - 🧠 GitHub: [github.com/khalaf-droid](https://github.com/khalaf-droid)
+- 📸 [Instagram](https://www.instagram.com/khalafhusseinkhalaf?igsh=cWFxYmYyaDI5bngy](https://www.instagram.com/khalafhusseinkhalaf?igsh=cWFxYmYyaDI5bngy)
+- 📘 [Facebook](https://web.facebook.com/khalaf.khan.50/](https://web.facebook.com/khalaf.khan.50/)
 
 ---
 
