@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:4F46E5,100:00E5FF&height=220&section=header&text=Khalaf%20Hussein&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MEAN%20Developer%20%7C%20System%20%26%20Architecture%20Thinker&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -245,8 +244,6 @@ A home-services marketplace concept for Egypt/MENA, shipped with a full Product 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khalaf-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalaf-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9"/>
 
 <br/>
 
